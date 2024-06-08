@@ -1,0 +1,14 @@
+
+  #login
+  {
+  margin:auto; 
+  background-position:left top;
+  background-size :cover;
+  background-repeat : no-repeat;
+  opacity : 0.8;
+  }
+  
+  #signupform{
+  background : url('/static/images/bg_texture.png');
+  color : white;
+  }
